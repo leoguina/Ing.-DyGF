@@ -1,0 +1,7 @@
+https://cdn.conekta.io/js/latest/conekta.js
+
+https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+
+Key_KRNM8gTJdgrXuzcXsteJw9w
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
